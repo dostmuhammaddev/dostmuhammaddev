@@ -39,7 +39,7 @@ open_to:<br>
 ### 🤖 AI & LLM
 
 
-
+Python, LangChain, LangGraph, OpenAI, Hugging Face, Groq, PyTorch, TensorFlow, scikit-learn, MLflow
 
 
 
@@ -53,13 +53,13 @@ open_to:<br>
 
 ### 🎙️ Voice & Multimodal
 
-
+Whisper, ElevenLabs, Gradio, Streamlit
 
 \
 
 ### ⚙️ Backend & Databases
 
-
+FastAPI, Flask, ChromaDB, PostgreSQL, SQL Server, MySQL, .NET
 
 
 
@@ -67,7 +67,7 @@ open_to:<br>
 \
 
 ### 🎨 Frontend
-
+TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Chart.js, Plotly
 
 
 
@@ -76,7 +76,7 @@ open_to:<br>
 \
 
 ### ☁️ DevOps & Deployment
-
+Vercel, Railway, Render, GitHub Actions, Git, GitHub
 
 
 
@@ -84,12 +84,12 @@ open_to:<br>
 \
 
 ### 📊 Data Science & Visualization
-
+NumPy, Pandas, SciPy, Matplotlib, Power BI, Anaconda
 
 \
 
 ### 🛠️ Design & Other Tools
-
+C++, C#, Canva, Figma, Markdown, Testing Library
 
 
 
