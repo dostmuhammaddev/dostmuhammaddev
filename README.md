@@ -32,7 +32,7 @@ open_to:<br>
 ## 🌐 Socials:
 
 
-\
+
 
 # 💻 Tech Stack:
 
@@ -49,13 +49,13 @@ Python, LangChain, LangGraph, OpenAI, Hugging Face, Groq, PyTorch, TensorFlow, s
 
 
 
-\
+
 
 ### 🎙️ Voice & Multimodal
 
 Whisper, ElevenLabs, Gradio, Streamlit
 
-\
+
 
 ### ⚙️ Backend & Databases
 
@@ -64,7 +64,7 @@ FastAPI, Flask, ChromaDB, PostgreSQL, SQL Server, MySQL, .NET
 
 
 
-\
+
 
 ### 🎨 Frontend
 TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Chart.js, Plotly
@@ -73,7 +73,7 @@ TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Chart.js, Plotly
 
 
 
-\
+
 
 ### ☁️ DevOps & Deployment
 Vercel, Railway, Render, GitHub Actions, Git, GitHub
@@ -81,12 +81,12 @@ Vercel, Railway, Render, GitHub Actions, Git, GitHub
 
 
 
-\
+
 
 ### 📊 Data Science & Visualization
 NumPy, Pandas, SciPy, Matplotlib, Power BI, Anaconda
 
-\
+
 
 ### 🛠️ Design & Other Tools
 C++, C#, Canva, Figma, Markdown, Testing Library
@@ -94,7 +94,7 @@ C++, C#, Canva, Figma, Markdown, Testing Library
 
 
 
-\
+
 
 # 📊 GitHub Stats:
 
