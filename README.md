@@ -151,18 +151,19 @@ open_to:<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dostmuhammaddev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dostmuhammaddev&theme=city_lights&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=dostmuhammaddev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=dostmuhammaddev&icon=5&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⭐ Thanks for visiting my profile!
+
+**Let's build, learn, and grow together.**
+
+<br>
+
+<sub>Maintained & organized by <h4>Dost Muhammad</h4> </sub> 
+ 
+ <sub>Built with passion for technology and community</sub>
+
+</div>
