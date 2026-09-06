@@ -33,7 +33,7 @@
 # 💫 About Me:
 
 Name: Dost Muhammad <br>
-Role: Software Engineering Student | ML Engineer<br>
+Role: Software Engineering Student | ML Developer<br>
 Location: Balochistan, Pakistan<br><br>
 
 what_i_do:<br>
