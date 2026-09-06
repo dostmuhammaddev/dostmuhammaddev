@@ -6,10 +6,9 @@
 
 <h1>Hi 👋, I'm Dost Muhammad</h1>
 
-<h3>Software Engineering Student | ML Engineer</h3>
+<h3>Software Engineering Student | ML/AI Developer | Hackathon Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Machine+Learning+Engineer;AI+%26+LLM+Enthusiast;Building+Models+%26+Intelligent+Systems;Open+to+Internship+Opportunities;Open+to+Collaboration+in+Tech+Events" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Machine+Learning+Developer;AI+%26+LLM+Enthusiast;Hackathon+Enthusiast;Building+Models+%26+Intelligent+Systems;Open+to+Internship+Opportunities;Open+to+Collaboration+in+Tech+Events" alt="Typing SVG" />
 <br><br>
 
 <a href="https://github.com/dostmuhammaddev">
